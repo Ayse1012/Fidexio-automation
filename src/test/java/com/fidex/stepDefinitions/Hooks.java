@@ -12,7 +12,6 @@ public class Hooks {
     public void setUp() {
 
         Driver.get().manage().window().maximize();
-       // Driver.get().manage().
 
     }
 
